@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054979012296",
+    "firebase_url": "https://word-app-cc35c.firebaseio.com",
+    "project_id": "word-app-cc35c",
+    "storage_bucket": "word-app-cc35c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054979012296:android:cb4ed1e13785bbb64797fd",
+        "android_client_info": {
+          "package_name": "com.example.wordapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054979012296-1unnvoac6les926n89ikl0m7kqv4gvmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wordapp",
+            "certificate_hash": "8e629398554d7d57c942c9dc092d37dc5db04b2f"
+          }
+        },
+        {
+          "client_id": "1054979012296-5da3aghop45lqrar3jr5rum1ddt0g47n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADBQqFZ3-jp14oS8oYoTrdSMzXoAyB_hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054979012296-5da3aghop45lqrar3jr5rum1ddt0g47n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
